@@ -10,12 +10,12 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Contact: <a href="/members">SIGVAR Secretary</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>, using a version of the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: 
+keywords:
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:   # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://aclsigvar.github.io/ # the base hostname & protocol for your site
+url: https://aclsigvar.org # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -52,7 +52,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 # blog_name: Blog # blog_name will be displayed in your blog page
 # blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-# blog_description: 
+# blog_description:
 # permalink: /blog/:year/:title/
 
 # # Pagination
@@ -171,8 +171,8 @@ filtered_bibtex_keywords: [abstract, arxiv, bibtex_show, blog,
                            frontnote, guidelines, hide_year, html,
                            invited_talk, model,
                            pdf, poster, preprint, press, preview,
-                           selected, slides, summary, suppl, 
-                           venue, venue_url, video, website, 
+                           selected, slides, summary, suppl,
+                           venue, venue_url, video, website,
                            _video]
 
 # -----------------------------------------------------------------------------
