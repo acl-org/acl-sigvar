@@ -16,3 +16,8 @@ The activities of SIGVAR include:
 - Coordination between organizations in academia (both in NLP and in dialectology and linguistics) and industry on this topic.
 - Fostering open-source language resource creation, maintenance, and release.
 - Endorsing the VarDial workshop and other relevant events. 
+
+### News
+
+- October 2026: The [VarDial](/vardial2027) workshop will be colocated with [EACL](https://2027.eacl.org/) in March 2027
+- September 2026: SIGVAR got founded!

@@ -24,7 +24,7 @@ Membership will be **terminated** on request, or automatically if no reply is re
 
 SIGVAR does not charge **dues** to its members.
 
-### III. Elected Officers 
+### III. Elected Officers
 
 The elected officers of the SIG shall consist of a President, a Secretary and a Treasurer. These shall be members in good standing of the ACL. The term of all elected officers of the SIG shall be 3 years or shorter if the elected officers organize the elections earlier. 
 
@@ -83,7 +83,7 @@ The SIGVAR will be supported by an Advisory Committee of leading researchers of 
 
 **Unexpected Vacancy** – If a vacancy occurs among the SIG officers, the remaining two elected officers will each nominate a replacement officer from among the Advisory Committee members to serve out up to the remainder of the previous office holder's term. The Advisory Committee will vote on the nominees to identify the replacement officer.
 
-### VI. Ethical Considerations
+<h3 id="ethical-considerations">VI. Ethical Considerations</h3>
 
 SIGVAR supports research that extends useful technologies to more language varieties and speakers than are currently served by language technologies. SIGVAR also seeks to foster the development and release of open-source datasets.
 

@@ -8,7 +8,10 @@ nav_order: 3
 
 SIGVAR supports meetings and workshop related to its objectives.
 
-SIGVAR was funded in September 2026, but its members have already previously organized related events, such as:
+Upcoming events:
+- [VarDial 2027 @ EACL](/vardial2027)
+
+SIGVAR was founded in September 2026, but its members have already previously organized related events, such as:
 - The VarDial workshop series 
 ([2026](https://sites.google.com/view/vardial-2026/home), 
 [2025](https://sites.google.com/view/vardial-2025/home), 
