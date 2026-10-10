@@ -3,6 +3,14 @@ All of these themes are available as open source under the terms of the [MIT Lic
 
 ## Updating this website
 
+### Building the website locally
+
+Changes pushed to the main branch of this repo will automatically appear on the website (unless they break something or there is a more general problem with the deployment).
+
+In order to preview changes locally, you need to first [install Jekyll](https://jekyllrb.com/docs/installation/), clone this repo, and install the required Ruby Gems (`bundle install`).
+Then you can generate a preview via `bundle exec jekyll serve` ([http://127.0.0.1:4000](http://127.0.0.1:4000)).
+The local preview is automatically updated when you update make changes to (most) files (except `_config.yml` or the install Gems).
+
 ### Adding SIGVAR pages
 
 Create a new markdown file in `_pages`. It should start with a header such as:
@@ -71,7 +79,7 @@ subtitle:
 (Insert CfP here.)
 ```
 
-The CfP should be in accordance with the [ethical considerations](aclsigvar.org/constitution#ethical-considerations) in SIGVAR's constitution.
+The CfP should be in accordance with the [ethical considerations](https://aclsigvar.org/constitution#ethical-considerations) in SIGVAR's constitution.
 
 Any page that should appear in the dropdown bar needs to be listed in `dropdown.md`.
 The filename does not technically need to match the permalink or the title in the dropdown menu, but it makes managing the website a bit easier.
