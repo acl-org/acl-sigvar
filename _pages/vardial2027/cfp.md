@@ -26,7 +26,7 @@ We welcome papers dealing with one or more of the following topics:
 ### Important Dates
 
 - Direct Submission deadline: December 15, 2026
-- Pre-reviewed (ARR) submission deadline: January 15, 2027
+- Pre-reviewed (ARR) submission deadline: date TBD
 - Notification of acceptance: January 20, 2027
 - Camera-ready paper due: January 29, 2027
 - Workshop at EACL (hybrid): March 9--14, 2027 (exact date TBD)
