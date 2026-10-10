@@ -1,15 +1,12 @@
-This code is extremely heavily based on [Maruan Al-Shedivat](https://maruan.alshedivat.com/)'s [al-folio](https://github.com/alshedivat/al-folio) theme, which is based on [Lia Bogoev](https://liabogoev.com)'s [\*folio theme](https://github.com/bogoli/-folio).
-All of these themes are available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE).
-
 ## Updating this website
 
 ### Building the website locally
 
-Changes pushed to the main branch of this repo will automatically appear on the website (unless they break something or there is a more general problem with the deployment).
+Changes pushed to the main branch of this repo will automatically appear on the website (unless they break something or there is a more general problem with deployment).
 
-In order to preview changes locally, you need to first [install Jekyll](https://jekyllrb.com/docs/installation/), clone this repo, and install the required Ruby Gems (`bundle install`).
+If you would like to preview changes locally, you need to first [install Jekyll](https://jekyllrb.com/docs/installation/), clone this repo, and install the required Ruby Gems (`bundle install`).
 Then you can generate a preview via `bundle exec jekyll serve` ([http://127.0.0.1:4000](http://127.0.0.1:4000)).
-The local preview is automatically updated when you update make changes to (most) files (except `_config.yml` or the install Gems).
+The local preview is automatically updated when you make changes to (most) files (except `_config.yml` or the installed Gems).
 
 ### Adding SIGVAR pages
 
@@ -86,5 +83,12 @@ The filename does not technically need to match the permalink or the title in th
 
 Once the general workshop website is set up, you can announce it in the news section of the SIGVAR start page (`_pages/home.md`) and in the list of SIGVAR-affiliated events (`_pages/events.md`)
 
+### Removing workshop pages from the navigation bar
+
 To remove an old workshop from the navigation bar, set `nav: false` in the corresponding `dropdown.md` file.
 Make sure the main page (e.g., `/vardial2027`) is linked in SIGVAR's list of events (`_pages/events.md`), and that all subpages (e.g., `/vardial2027/cfp`) are linked on the Workshop's main page, so that the information on this workshop remains findable.
+
+## Credits
+
+This code is extremely heavily based on [Maruan Al-Shedivat](https://maruan.alshedivat.com/)'s [al-folio](https://github.com/alshedivat/al-folio) theme, which is based on [Lia Bogoev](https://liabogoev.com)'s [\*folio theme](https://github.com/bogoli/-folio).
+All of these themes are available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE).
