@@ -23,6 +23,8 @@ We welcome papers dealing with one or more of the following topics:
 - Studies focusing on related creole languages and their lexifier languages;
 - Studies focusing on diachronic language variation (e.g. phylogenetic methods, historical dialects).
 
+Accepted papers will be published in the [workshop proceedings](https://aclanthology.org/venues/vardial/).
+
 ### Important Dates
 
 - Direct Submission deadline: December 15, 2026
