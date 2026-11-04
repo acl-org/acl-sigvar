@@ -4,7 +4,7 @@ title: Shared Task (VarDial 2027)
 permalink: /vardial2027/shared-task
 subtitle:
 ---
-<img src="{{ '/assets/amiyaimg.png' | relative_url }}" alt="AMIYA (عامية)" width="200">
+![AMIYA (عامية)](/assets/amiyaimg.png)
 # **AMIYA (عامية) Shared Task: Arabic Modeling In Your Accent**
 
 AMIYA is back for 2027! The AMIYA shared task offers a chance for researchers to demonstrate innovations and improvements in language modeling of dialectal Arabic.
