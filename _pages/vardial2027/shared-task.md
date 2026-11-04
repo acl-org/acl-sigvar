@@ -100,6 +100,7 @@ To register as AMIYA shared task participants, please submit [this form](https:/
 - Kenton Murray (Johns Hopkins University)
 - Salima Lamsiyah (University of Luxembourg)
 - Otba Alsboul (Independent Researcher)
+- Passant Elchafei (Johannes Kepler University)
 
 ### Contact
 
