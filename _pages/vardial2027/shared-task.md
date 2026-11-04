@@ -4,6 +4,13 @@ title: Shared Task (VarDial 2027)
 permalink: /vardial2027/shared-task
 subtitle:
 ---
+<style>
+  .amiya-task h1, .amiya-task h2, .amiya-task h3,
+  .amiya-task h1 a, .amiya-task h2 a, .amiya-task h3 a {
+    color: #2E8B0F !important;
+    font-weight: 700 !important;
+  }
+</style>
 
 # AMIYA (عامية) Shared Task: Arabic Modeling In Your Accent
 
