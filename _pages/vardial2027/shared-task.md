@@ -74,7 +74,7 @@ We will evaluate submissions using the [AL-QASIDA](https://github.com/JHU-CLSP/a
 2. chrF++ translation score, on both DA-to-English, English-to-DA, DA-to-MSA, and MSA-to-DA translation
 3. Human scores for fluency and adherence to DA instructions
 
-The baseline model for comparison will be [Llama-3.1 (8B)](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct), as well as GPT 5.5.
+The baseline model for comparison will be [Llama-3.1 (8B)](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct), GPT 5.5 as well as last year's successful models. 
 
 ## **Task Information** 📣
 
