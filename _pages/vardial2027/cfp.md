@@ -24,13 +24,16 @@ We welcome papers dealing with one or more of the following topics:
 - Studies focusing on diachronic language variation (e.g. phylogenetic methods, historical dialects).
 
 Accepted papers will be published in the [workshop proceedings](https://aclanthology.org/venues/vardial/).
+We also accept non-archival submissions of relevant papers that have been accepted/published at other venues.
 
 ### Important Dates
 
-- Direct Submission deadline: December 15, 2026
+- Direct submission deadline: December 15, 2026
 - Pre-reviewed (ARR) submission deadline: date TBD
+- Non-archival paper submission deadline: date TBD
 - Notification of acceptance: January 20, 2027
 - Camera-ready paper due: January 29, 2027
+- Presenting author registration (via EACL): February 8, 2027
 - Workshop at EACL (hybrid): March 9--14, 2027 (exact date TBD)
 
 ### Instructions for Authors
@@ -48,10 +51,27 @@ Papers that introduce datasets should mention whether the data will be released,
 All submissions must use the official [ACL templates](https://github.com/acl-org/acl-style-files) and follow the [ARR guidelines](https://aclrollingreview.org/cfp#paper-submission-information) with respect to anonymization, authorship, and citation/comparison.
 Submissions must follow the [ACL code of ethics](https://aclrollingreview.org/cfp#paper-submission-information) and the [ACL publication ethics policies](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Policies).
 AI usage needs to be disclosed.
-Submissions to VarDial may not be under review or published elsewhere (preprints are allowed).
+Archival submissions to VarDial may not be under review or published elsewhere (preprints are allowed).
+The use of AI-generated text may lead to desk rejection.
 Submissions that violate the above policies, contain fabricated references, prompt injections, or are of low quality will be desk-rejected.
 
-Contributions must be submitted to Softconf (URL to come).
+#### Direct paper submission
 
-To commit a paper with ARR reviews (such as rejected EACL main conference papers), upload the submission and a PDF of the reviews & meta-review here: (URL to come).
-The PDF with the reviews does not need to be anonymized.
+Contributions must be submitted to Softconf: (URL to come).
+
+#### Papers with ARR reviews
+
+To commit a paper with ARR reviews (such as rejected EACL main conference papers), upload the submission and the existing reviews here: (URL to come).
+
+<!-- To commit a paper with ARR reviews (such as rejected EACL main conference papers), upload the submission and a PDF of the reviews & meta-review here: (URL to come).
+The PDF with the reviews does not need to be anonymized. -->
+
+#### Non-archival papers
+
+We also accept papers for non-archival presentation.
+Such papers need to have been accepted at other high-quality venues (accepted or published after VarDial/EACL 2026).
+Papers from EACL 2027 are welcome.
+Non-archival papers do not have to follow the ACL formatting/length guidelines and should not be anonymized.
+Non-archival submissions do not undergo full peer review at VarDial and are accepted based on relevance/quality at the discretion of the organizers.
+
+To submit a non-archival paper, upload the camera-ready PDF and a link to the proceedings (or a copy of the acceptance email, if the proceedings are not yet available) to Softconf: (URL to come).

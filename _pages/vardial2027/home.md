@@ -7,9 +7,9 @@ subtitle:
 
 ## VarDial 2027 -- The Fourteenth Workshop on NLP for Similar Languages, Varieties and Dialects
 
-The Fourteenth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial) 2027 will be co-located with [EACL 2027](https://2027.eacl.org/) in Athens, Greece, in March 2027.
+The Fourteenth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2027) will be co-located with [EACL 2027](https://2027.eacl.org/) in Athens, Greece, in March 2027.
 It will take place in a hybrid format (in person & online).
-The call for papers with the timeline is available [here](/vardial2027/cfp).
+The call for papers with the timeline is available [here](/vardial2027/cfp), and information on the shared task can be found [here](/vardial2027/shared-task).
 
 VarDial is a well-established [series of workshops](/events) promoting a forum for scholars working on a range of topics related to the study of diatopic language variation from a computational perspective.
 VarDial 2027 is supported by the newly established ACL Special Interest Group on Similar Languages, Varieties, and Dialects ([SIGVAR](/)).
