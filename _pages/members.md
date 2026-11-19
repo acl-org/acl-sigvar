@@ -28,7 +28,7 @@ Elections for the President, Secretary, and Treasurer positions will take place 
 - Jörg Tiedemann (University of Helsinki, Finland)
 
 <h2>Members</h2>
-SIGVAR has >80 members.
+SIGVAR has >120 members (11/2026).
 
 <h2>Joining SIGVAR</h2>
 
