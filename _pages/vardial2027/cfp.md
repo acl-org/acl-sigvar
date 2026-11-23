@@ -7,7 +7,7 @@ subtitle:
 
 ## Call for Papers
 
-VarDial 2027 will be colocated with EACL 2027 in Athens, Greece, and will take place in a hybrid format (in person & online). We anticipate a discussion on computational methods and language resources for closely related languages, language varieties, and dialects.
+[VarDial 2027](/vardial2027) will be colocated with EACL 2027 in Athens, Greece, and will take place in a hybrid format (in person & online). We anticipate a discussion on computational methods and language resources for closely related languages, language varieties, and dialects.
 We welcome papers dealing with one or more of the following topics:
 
 - Language resources and tools for similar languages, varieties and dialects;
