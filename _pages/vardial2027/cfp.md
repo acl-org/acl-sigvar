@@ -34,7 +34,7 @@ We also accept non-archival submissions of relevant papers that have been accept
 - Notification of acceptance: January 20, 2027
 - Camera-ready paper due: January 29, 2027
 - Presenting author registration (via EACL): February 8, 2027
-- Workshop at EACL (hybrid): March 9--14, 2027 (exact date TBD)
+- Workshop at EACL (hybrid): March 14, 2027
 
 ### Instructions for Authors
 
