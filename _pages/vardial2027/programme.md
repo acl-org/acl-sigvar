@@ -7,4 +7,6 @@ subtitle:
 
 ## Programme
 
+VarDial will take place on March 14, 2027 (full day).
+
 Programme TBD.
